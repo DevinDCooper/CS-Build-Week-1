@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%3Cgithub-repo-name%3E/static/css/main.74e82d11.chunk.css",
+    "main.js": "/%3Cgithub-repo-name%3E/static/js/main.31a8c706.chunk.js",
+    "main.js.map": "/%3Cgithub-repo-name%3E/static/js/main.31a8c706.chunk.js.map",
+    "runtime-main.js": "/%3Cgithub-repo-name%3E/static/js/runtime-main.9073b8c7.js",
+    "runtime-main.js.map": "/%3Cgithub-repo-name%3E/static/js/runtime-main.9073b8c7.js.map",
+    "static/js/2.038d2dae.chunk.js": "/%3Cgithub-repo-name%3E/static/js/2.038d2dae.chunk.js",
+    "static/js/2.038d2dae.chunk.js.map": "/%3Cgithub-repo-name%3E/static/js/2.038d2dae.chunk.js.map",
+    "index.html": "/%3Cgithub-repo-name%3E/index.html",
+    "precache-manifest.180c18c5a017072911161b6ee22bc285.js": "/%3Cgithub-repo-name%3E/precache-manifest.180c18c5a017072911161b6ee22bc285.js",
+    "service-worker.js": "/%3Cgithub-repo-name%3E/service-worker.js",
+    "static/css/main.74e82d11.chunk.css.map": "/%3Cgithub-repo-name%3E/static/css/main.74e82d11.chunk.css.map",
+    "static/js/2.038d2dae.chunk.js.LICENSE.txt": "/%3Cgithub-repo-name%3E/static/js/2.038d2dae.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/%3Cgithub-repo-name%3E/static/media/Space-Invaders.e79c43cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9073b8c7.js",
+    "static/js/2.038d2dae.chunk.js",
+    "static/css/main.74e82d11.chunk.css",
+    "static/js/main.31a8c706.chunk.js"
+  ]
+}
